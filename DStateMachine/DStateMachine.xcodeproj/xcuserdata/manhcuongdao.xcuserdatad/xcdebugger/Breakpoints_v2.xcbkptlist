@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DStateMachineTests/DStateMachineTests.swift"
+            timestampString = "478537160.494217"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "DStateMachineTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DStateMachineTests/DStateMachineTests.swift"
+            timestampString = "478537715.907692"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "testExample()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DStateMachineTests.DStateMachineTests.testExample (DStateMachineTests.DStateMachineTests)() -&gt; ()"
+                  moduleName = "DStateMachineTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manhcuongdao/Documents/zentech/DStateMachine/DStateMachineTests/DStateMachineTests.swift"
+                  timestampString = "478537722.199122"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "242">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DStateMachineTests.DStateMachineTests.(testExample (DStateMachineTests.DStateMachineTests) -&gt; () -&gt; ()).(implicit closure #1)"
+                  moduleName = "DStateMachineTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manhcuongdao/Documents/zentech/DStateMachine/DStateMachineTests/DStateMachineTests.swift"
+                  timestampString = "478537722.199368"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
